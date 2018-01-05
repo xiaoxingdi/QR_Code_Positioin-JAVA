@@ -1,0 +1,2 @@
+# QR_Code_Positioin-JAVA
+Java语言基于OpenCV实现二维码的检测定位
